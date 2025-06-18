@@ -1,0 +1,7 @@
+mongo_uri: "mongodb://localhost:27017"
+database_name: "foxlogger"
+collection_name: "logs"
+badwords_file: "badwords.txt"
+
+allowed_players:
+  - ayd1ndemirci
