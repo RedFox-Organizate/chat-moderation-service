@@ -13,7 +13,6 @@ Bu proje, Go dilinde yazılmış basit bir sohbet moderasyon servisidir. Bir Mon
 * **Beyaz Listeye Alınmış Oyuncular:** Belirli oyuncuların moderasyon kontrollerini atlamasına izin verir.
 * **CSV Kaydı:** Tespit edilen küfürleri, oyuncu adı, zaman damgası ve mesajla birlikte bir CSV dosyasına kaydeder.
 * **Zarif Kapanma (Graceful Shutdown):** Sonlandırma sinyali alındığında tüm çalışan işlemlerin temiz bir şekilde kapanmasını sağlar.
-* **Yapılandırılmış Loglama:** Verimli ve yapılandırılmış loglama için `zap` kullanır.
 
 ---
 
