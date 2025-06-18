@@ -1,6 +1,6 @@
 ```markdown
 # Chat Moderasyon Servisi
-
+```
 Bu proje, Go dilinde yazılmış basit bir sohbet moderasyon servisidir. Bir MongoDB veritabanındaki sohbet günlüklerini izler, önceden tanımlanmış "küfürlü kelimeler" içeren mesajları tanımlar, bu olayları kaydeder ve moderasyon sistemi tarafından mesajları göz ardı edilen beyaz listeye alınmış oyunculara izin verir.
 
 ---
